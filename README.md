@@ -15,3 +15,15 @@ Priority | Ability
 6. | ![Dragon_roar](https://wow.zamimg.com/images/wow/icons/tiny/ability_warrior_dragonroar.gif) Dragon Roar (if Enraged)
 7. | ![Raging_Blow](https://wow.zamimg.com/images/wow/icons/tiny/warrior_wild_strike.gif) Raging Blow
 8. | ![Whirlwind](https://wow.zamimg.com/images/wow/icons/tiny/ability_whirlwind.gif) Whirlwind
+
+The most optimal use of ![Rampage](https://wow.zamimg.com/images/wow/icons/tiny/ability_warrior_rampage.gif)is to use it as much as possible, except when not Enraged (unless you have over 90 rage, too.)
+
+## AoE Rotation
+For when there are multiple targets, continue the Single Target Rotation except prioritize like down below.
+
+Priority | Ability
+------------ | -------------
+1. | ![Whirlwind](https://wow.zamimg.com/images/wow/icons/tiny/ability_whirlwind.gif) Whirlwind
+2. | ![Rampage](https://wow.zamimg.com/images/wow/icons/tiny/ability_warrior_rampage.gif) Rampage
+
+Whirlwind will be prioritized above rampage.
